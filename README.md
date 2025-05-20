@@ -4,7 +4,7 @@ This project performs node classification on the [Cora citation dataset](https:/
 
 ---
 
-## 🧠 Features
+## Features
 
 - Loads and preprocesses Cora dataset
 - Uses `StandardScaler` for normalization
@@ -14,7 +14,7 @@ This project performs node classification on the [Cora citation dataset](https:/
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### 1. Clone the repository
 
@@ -29,7 +29,11 @@ cd cora-logistic-regression
 pip install -r requirements.txt
 ```
 
-### 3. Run the classification script
+### 3. Add dataset to folder
+
+You will have to add cora dataset folder to the parent folder in order to run the code
+
+### 4. Run the classification script
 
 ```bash
 
